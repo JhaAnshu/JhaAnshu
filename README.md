@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @JhaAnshu
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning everything :)
+
 
 
 <!---
